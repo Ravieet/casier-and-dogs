@@ -1,0 +1,46 @@
+img,h2,p,a{
+    box-sizing: border-box;
+    margin: 5px;
+    height: auto;
+    width: 60%;
+    align-content: center;
+    
+}
+img {
+    
+    
+    padding: 30px;
+    
+    
+    
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    
+    }
+p{
+
+    font-size: 24px;
+    
+
+    border:0px;
+}
+
+a{  
+    border:0px;
+    padding-left: 25.5%;
+    padding-right:25.9%;
+    font-size: 18px;
+    font-weight: bold;
+    
+    text-decoration: none;
+    
+    text-align: center;
+    
+
+}
+
